@@ -14,3 +14,4 @@ In this project, Use the single Linked List for data stored.
 ![r5](https://github.com/par3k/StudentInformationSystem/blob/master/img/search.png)
 ![r6](https://github.com/par3k/StudentInformationSystem/blob/master/img/save.png)
 ![r7](https://github.com/par3k/StudentInformationSystem/blob/master/img/load.png)
+![r8](https://github.com/par3k/StudentInformationSystem/blob/master/img/delete.PNG)
